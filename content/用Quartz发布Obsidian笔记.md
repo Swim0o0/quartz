@@ -7,10 +7,10 @@
 ```shell
 #进入D盘
 D:
-
 #进入D盘中的quartz文件夹下
 cd quartz
-
 #同步新笔记到网页
 npx quartz sync
 ```
+
+4. 约40s，进入网页端即可看到更新后的内容
